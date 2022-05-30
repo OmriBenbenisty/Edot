@@ -11,7 +11,7 @@ This Project was created as part of the 2022 HUJI Hackathon
 #### Technologies
 
 - Arduino
-- Proccessing 
+- Processing 
 - Rhino
 - 3D Printing
 - Adobe Creative Suite
